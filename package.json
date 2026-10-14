@@ -1,9 +1,0 @@
-{
-    "packagelist":{"liquidglass-ui"},
-    "liquidglass-ui":{
-         "ver":"0.0.1",
-         "main":"Info.json"
-         "histroyver":["0.0.1"]
-      },
-"url":"/package"
-}
